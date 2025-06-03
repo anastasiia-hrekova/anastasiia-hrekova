@@ -1,5 +1,17 @@
+<div id="header" align="center">
 
-<h1 align="center">I'm Anastasiia, a frontend developer 👋</h1>  
+<img src="./assets/github.gif" width="100"/>
+
+<h1>
+Hey there, I'm Anastasiia!
+<img src="./assets/giphy.gif" width="30px" alt="GIF">
+</h1>
+
+   </div>
+
+   <br/>
+   
+### About Me :
 
 Motivated and fast-learning frontend developer with a strong foundation in React, TypeScript, and modern UI libraries. Proven experience building real-world web applications from scratch - from layout and responsive design to API integration and state management. Currently mentoring junior developers, with a passion for clean code, scalable architecture, and continuous learning.
 
