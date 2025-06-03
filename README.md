@@ -79,7 +79,8 @@ Motivated and fast-learning frontend developer with a strong foundation in React
       <br>Node.js
     </td>
   </tr>    
-    <td align="center"  width="88">
+    <tr>
+       <td align="center"  width="88">
         <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
     </td>
@@ -116,6 +117,7 @@ Motivated and fast-learning frontend developer with a strong foundation in React
         <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="44" height="44"/>
       <br>Firebase
      </td>
+    </tr>
 </table>
 </div>
 
