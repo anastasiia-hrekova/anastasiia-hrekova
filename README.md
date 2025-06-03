@@ -123,6 +123,22 @@ Motivated and fast-learning frontend developer with a strong foundation in React
 
 
 <br/>  
+### GitHub Stats :
 
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/anastasiia-hrekova/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anastasiia-hrekova&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="anastasiia-hrekova github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/anastasiia-hrekova/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiia-hrekova&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=anastasiia-hrekova&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="anastasiia-hrekova GitHub Readme Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
 
 <div align="center"><img src="https://u8views.com/api/v1/github/profiles/174583003/views/day-week-month-total-count.svg" align="center" /></div> 
