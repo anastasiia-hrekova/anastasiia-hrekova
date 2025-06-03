@@ -1,7 +1,4 @@
 <div id="header" align="center">
-
-<img src="./assets/github.gif" width="100"/>
-
 <h1>
 Hey there, I'm Anastasiia!
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
@@ -20,6 +17,25 @@ Motivated and fast-learning frontend developer with a strong foundation in React
 
 <br/>  
 
+### Languages :
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table  align="center">
+  <tr>
+    
+        🇺🇦 Ukrainian - Native
+        
+  </tr>
+
+  <tr>
+    
+        🇬🇧 English - Intermediate
+        
+  </tr>
+  
+</table>
+</div>
+<br/>
 
 ## My tech stack
 
