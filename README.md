@@ -80,7 +80,7 @@ Motivated and fast-learning frontend developer with a strong foundation in React
     </td>
   </tr>    
     <td align="center"  width="88">
-        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
     </td>
     <td align="center" width="88">
@@ -101,7 +101,7 @@ Motivated and fast-learning frontend developer with a strong foundation in React
       <br>VSCode
      </td>
   <td align="center" width="88">
-        <img src="[./images/18-figma.svg](https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg)" alt="Express.js" width="44" height="44"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="44" height="44"/>
       <br>Express.js
      </td>
    <td align="center" width="88">
