@@ -27,7 +27,7 @@ continuous learning.
 
 **Other:** Responsive Design, REST API, Framer Motion
 
-[![Anastasiia Grekova profile views](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anastasiia-hrekova&theme=nord_bright)
+[!Anastasiia Grekova profile views](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anastasiia-hrekova&theme=nord_bright)
 
 
 [![Anastasiia Grekova profile views](https://u8views.com/api/v1/github/profiles/174583003/views/day-week-month-total-count.svg)](https://u8views.com/github/anastasiia-hrekova)
