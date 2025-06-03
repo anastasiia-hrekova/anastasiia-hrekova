@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>
-Hey there, I'm Anastasiia!
+Hey there, I'm Anastasiia 👋!
 <img src="./assets/giphy.gif" width="30px" alt="GIF">
 </h1>
 
@@ -37,39 +37,87 @@ Motivated and fast-learning frontend developer with a strong foundation in React
 </div>
 <br/>
 
-## My tech stack
+### My tech stack and tools :
 
-<table align="center"><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+     <td align="center"  width="88">
+         <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="88">
+        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
+      <br>CSS3
+    </td>
+<td align="center" width="88">
+         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="88">
+        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
+      <br>TypeScript
+    </td>
+     <td align="center" width="88">
+        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+      <br>Sass
+    </td>
+    <td align="center" width="88"> 
+        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
+      <br>BEM
+    </td>
+    <td align="center" width="88">
+        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+      <br>React.js
+    </td>
+    <td align="center" width="88">
+        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+      <br>Next.js
+    </td>
+    <td align="center" width="88">
+      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+      <br>Node.js
+    </td>
+  </tr>    
+    <td align="center"  width="88">
+        <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="88">
+        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
+      <br>Redux
+    </td>
+      <td align="center" width="88">
+        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
+      <br>Postman
+    </td>
+      </td>
+     <td align="center" width="88">
+        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+      <br>Git
+    </td>
+  <td align="center" width="88">
+        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+      <br>VSCode
+     </td>
+  <td align="center" width="88">
+        <img src="[./images/18-figma.svg](https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg)" alt="Express.js" width="44" height="44"/>
+      <br>Express.js
+     </td>
+   <td align="center" width="88">
+        <img src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" width="44" height="44"/>
+      <br>Styled Components
+     </td>
+    <td align="center" width="88">
+        <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" width="44" height="44"/>
+      <br>AWS
+     </td>
+    <td align="center" width="88">
+        <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" width="44" height="44"/>
+      <br>Firebase
+     </td>
+</table>
 </div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-</div>
-
-</td></tr></table>  
 
 
 <br/>  
