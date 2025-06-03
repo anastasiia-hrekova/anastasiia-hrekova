@@ -43,39 +43,39 @@ Motivated and fast-learning frontend developer with a strong foundation in React
 <table align="center">
   <tr>
      <td align="center"  width="88">
-         <img src="./images/01-html5.svg" alt="HTML5" width="44" height="44"/>
+         <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="44" height="44"/>
       <br>HTML5
     </td>
     <td align="center" width="88">
-        <img src="./images/02-css3.svg" alt="CSS3" width="44" height="44"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="44" height="44"/>
       <br>CSS3
     </td>
 <td align="center" width="88">
-         <img src="./images/03-javascript.svg" alt="JS" width="44" height="44"/>
+         <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JS" width="44" height="44"/>
       <br>JavaScript
     </td>
     <td align="center" width="88">
-        <img src="./images/04-typescript.svg" alt="TS" width="44" height="44"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TS" width="44" height="44"/>
       <br>TypeScript
     </td>
      <td align="center" width="88">
-        <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
     </td>
     <td align="center" width="88"> 
-        <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="Bem" width="44" height="44"/>
       <br>BEM
     </td>
     <td align="center" width="88">
-        <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
     <td align="center" width="88">
-        <img src="./images/07-nextjs.svg" alt="Next.js" width="44" height="44"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" width="44" height="44"/>
       <br>Next.js
     </td>
     <td align="center" width="88">
-      <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
+      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
     </td>
   </tr>    
@@ -84,20 +84,20 @@ Motivated and fast-learning frontend developer with a strong foundation in React
       <br>Tailwind
     </td>
     <td align="center" width="88">
-        <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
+        <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
     </td>
       <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" width="44" height="44"/>
+      <br>Supabase
     </td>
       </td>
      <td align="center" width="88">
-        <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="44" height="44"/>
       <br>Git
     </td>
   <td align="center" width="88">
-        <img src="./images/17-vscode.svg" alt="Visual Studio Code" width="44" height="44"/>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" alt="Visual Studio Code" width="44" height="44"/>
       <br>VSCode
      </td>
   <td align="center" width="88">
